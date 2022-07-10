@@ -10,4 +10,4 @@ This is me last month:
 
 This is my ID photo (高度修图版):
 
-<img src="assets/me-id-photo.jpg" alt="me-id-photo" width="50%" />
+<img src="assets/me-id-photo.jpg" alt="me-id-photo" width="20%" />
